@@ -44,7 +44,7 @@
 ## About The Project
 
 Pac-man is a maze arcade game. It is a basic python-based desktop application which will contain three different level based upon difficulty.
-In this game we have provided different functionality to the user like he/she can control the sound or even control the quality by changing the FPS rate of game and these functionalities resides in Option page of the game
+In this game we have provided different functionality to the user like he/she can control the sound or even control the quality by changing the FPS rate of game and these functionalities resides in Option page of the game.
 
 
 ### Screenshots
